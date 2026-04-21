@@ -3,6 +3,7 @@
 ## 1. Diagrama Bloc
 
 Diagrama de mai jos ilustreaza interconexiunile dintre unitatea centrala (MCU) si perifericele sistemului.
+![PCB 3D Top](Images/diagrama.png)
 
 
 ## 2. Descriere Hardware
