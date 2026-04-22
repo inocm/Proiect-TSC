@@ -127,7 +127,7 @@ Au fost luate urmatoarele decizii strategice pentru a optimiza spatiul, performa
 
 * **Conectorul FPC (Display):** Conectorul flex al display-ului a fost curbat in modelul 3D pentru a se potrivi corect in pozitia de asamblare, folosind comanda bend pentru metal sheets din Fusion 360.
 
-![PCB 3D Top](Images/pcb_3d_top.png)
+![PCB 3D Top](Images/pcbtop.png)
 
 
 ### 5.2. Erori Known si Justificari
